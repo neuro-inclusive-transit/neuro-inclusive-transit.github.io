@@ -14,7 +14,10 @@ Campus Gummersbach
 - [Projekt 2 / Entwicklung](https://neuro-inclusive-transit.github.io/development/)
 - Projekt 3 / Forschung, Evaluation/Assessment, Verwertung im Kontext des Studienschwerpunkts
 
-- [Projektmanagement Board](https://github.com/orgs/neuro-inclusive-transit/projects/1)
-
 **Project-Owner**
 - Prof. Dr. Gerhard Hartmann
+
+## Projekt bei der Mensch-und-Computer 2024 in Karlsruhe
+
+Das Projekt wurde als Teil der Student-Research-Competition (SRC) bei der MuC 2024 als Paper eingereicht. Hier konnten wir den 3. Platz belegen. Das Research Paper ist hier einzulesen: <https://doi.org/10.18420/muc2024-mci-src-261>
+
