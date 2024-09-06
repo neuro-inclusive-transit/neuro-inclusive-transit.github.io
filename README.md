@@ -1,4 +1,4 @@
-# ÖPNV-Navigation für neurodiverse Personen
+# ÖPNV-Navigation für neurodivergente Personen
 im Rahmen der Module
 
 **Projekt 1 bis 3** \
@@ -7,8 +7,15 @@ Schwerpunkt Human-Computer Interaction \
 Technische Hochschule Köln \
 Campus Gummersbach
 
+**Team:**
+- [Lining Bao](mailto:lining.bao@smail.th-koeln.de)
+- [Finn Maybauer](mailto:finn_nils.gedrath@smail.th-koeln.de)
+- [Katrin Hartz](mailto:katrin.hartz@smail.th-koeln.de)
+- [Patrick Raul Lang](mailto:patrick_raul.lang@smail.th-koeln.de)
+- [Leonard Pelzer](mailto:leonard.pelzer@smail.th-koeln.de)
+
 > **Kurzvorstellung:** \
-> Für neurodiverse Personen stellt die Reise mit dem ÖPNV eine besondere Herausforderung dar. Reizüberflutung durch große Menschenansammlungen und kurzfristige Veränderungen am Fahrplan belasten diese Personengruppe im hohen Maße und grenzen diese von einer bezahlbaren und klimafreundlichen Mobilität aus. Unser konzeptionell entwickeltes System ist ein Begleiter in solchen überfordernden Situationen, in dem es indiviuell- und situativ-abhängige Unterstützung und Alternativen bietet. Im Gestaltungsprozess waren Werte wie Autonomie und Stärkung des Selbstbewusstsein besonders wichtig, mit dem Ziel Nutzende nicht vom System abhängig zu machen.
+> Für neurodivergente Personen stellt die Reise mit dem ÖPNV eine besondere Herausforderung dar. Reizüberflutung durch große Menschenansammlungen und kurzfristige Veränderungen am Fahrplan belasten diese Personengruppe im hohen Maße und grenzen diese von einer bezahlbaren und klimafreundlichen Mobilität aus. Unser konzeptionell entwickeltes System ist ein Begleiter in solchen überfordernden Situationen, in dem es indiviuell- und situativ-abhängige Unterstützung und Alternativen bietet. Im Gestaltungsprozess waren Werte wie Autonomie und Stärkung des Selbstbewusstsein besonders wichtig, mit dem Ziel Nutzende nicht vom System abhängig zu machen.
 
 - [Projekt 1 / Vision und Konzept](https://neuro-inclusive-transit.github.io/vision-concept/)
 - [Projekt 2 / Entwicklung](https://neuro-inclusive-transit.github.io/development/)
